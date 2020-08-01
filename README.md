@@ -1,3 +1,3 @@
 # NamingFramework
 
-This is a NamingFramework
+This is a NamingFramework.
